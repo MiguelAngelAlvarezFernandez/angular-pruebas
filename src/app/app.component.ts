@@ -13,7 +13,7 @@ import { RouterModule } from '@angular/router';
       </header>
     </a>
     <section class="content">
-    <router-outlet></router-outlet>
+      <router-outlet></router-outlet>
     </section>
   </main>
 `,
